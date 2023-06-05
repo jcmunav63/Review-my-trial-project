@@ -22,11 +22,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [mv_portfolio2] <a name="about-project"></a>
+# 📖 [FCC SURVEY FORM APP - Trials] <a name="about-project"></a>
 
-mv_portfolio2!
+Review my Trial Project (FCC Survey Form App)!
 
-**mv_portfolio2** It's a Portfolio responsive web app! This is the Finish Mobile Version project.
+**Review my Trial Project** It's a FreeCodeCamp, FCC Survey Form, responsive web app! This is a project to learn code reviewing.
 
 ## 🛠️ Built With <a name="built-with">
 ### Tech Stack <a name="tech-stack"></a>
@@ -41,7 +41,6 @@ mv_portfolio2!
 
 - **Good HTML and CSS practices**
 - **A wepage with use of linters**
-- **Flexbox**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -65,7 +64,7 @@ Clone this repository to your desired folder by running the following commands i
 ```sh
   cd your-prefered-folder-name
   
-  git clone https://github.com/jcmunav63/mv_portfolio2.git
+  git clone https://github.com/jcmunav63/Review-my-trial-project.git
 ```
 
 ### Install
@@ -73,7 +72,7 @@ Clone this repository to your desired folder by running the following commands i
 - Install this project with:
 
 ```sh
-  cd mv_portfolio2
+  cd Review-my-trial-project
 
   npm init -y
 
@@ -117,9 +116,7 @@ To run tests, run the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **Include another section for mobile version:**
-    **Contact me section**
-- **Desktop version**
+- **No future features.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
