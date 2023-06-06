@@ -22,7 +22,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [FCC SURVEY FORM APP - Trials] <a name="about-project"></a>
+# 📖 [Review-my-trial-project / FCC SURVEY FORM APP - Trials] <a name="about-project"></a>
 
 Review my Trial Project (FCC Survey Form App)!
 
